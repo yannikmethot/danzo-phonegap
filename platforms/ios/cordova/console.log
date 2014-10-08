@@ -1,0 +1,13 @@
+2014-10-07 21:47:21.595 DanzoGym[81632:5786226] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yannik.methot/Library/Developer/CoreSimulator/Devices/A1F4B758-46F8-4E68-80EA-2D5C27BE7630/data/Containers/Data/Application/DB548E8A-02E4-4464-BECC-0A701F9D2499/Library/Cookies/Cookies.binarycookies
+2014-10-07 21:47:22.010 DanzoGym[81632:5786226] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-07 21:47:22.010 DanzoGym[81632:5786226] Multi-tasking -> Device: YES, App: YES
+2014-10-07 21:47:22.026 DanzoGym[81632:5786226] Unlimited access to network resources
+2014-10-07 21:47:22.029 DanzoGym[81632:5786226] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-07 21:47:23.120 DanzoGym[81632:5786226] Resetting plugins due to page load.
+2014-10-07 21:47:23.161 DanzoGym[81632:5786226] Failed to load webpage with error: The network connection was lost.
