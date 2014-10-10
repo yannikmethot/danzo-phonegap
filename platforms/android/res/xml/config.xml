@@ -10,4 +10,7 @@
     </author>
     <content src="http://gym.danzo.ca" />
     <access origin="*" />
+    <feature name="StatusBar">
+        <param name="android-package" onload="true" value="org.apache.cordova.statusbar.StatusBar" />
+    </feature>
 </widget>

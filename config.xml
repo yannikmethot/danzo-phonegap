@@ -7,7 +7,14 @@
     <author email="info@danzo.ca" href="http://www.danzo.ca">
         Danzo
     </author>
-    <content src="http://gym.danzo.ca" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="StatusBarStyle" value="blackopaque" />
+
+    <preference name="BackgroundColor" value="0xffe0e0e0"/>
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <content src="http://gym.danzo.ca?native=true" />
     <access origin="*" />
     
 </widget>
