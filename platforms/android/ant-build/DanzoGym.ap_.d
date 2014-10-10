@@ -36,6 +36,6 @@
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/index.html \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/js \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/css/index.css \
-/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/img/logo.png \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/img/logo.jpg \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/js/index.js \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/AndroidManifest.xml \
