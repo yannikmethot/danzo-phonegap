@@ -18,5 +18,6 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="AllowInlineMediaPlayback" value="true" />
     <content src="http://gym.danzo.ca?native=true" />
+    <icon src="icon.png" />
     <access origin="*" />
 </widget>
