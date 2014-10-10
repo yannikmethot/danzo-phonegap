@@ -35,7 +35,13 @@
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/img \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/index.html \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/js \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/plugins \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/css/index.css \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/img/logo.jpg \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/js/cordova.js \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/js/cordova_plugins.js \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/js/index.js \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/plugins/org.apache.cordova.statusbar \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www/statusbar.js \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/AndroidManifest.xml \
