@@ -37,6 +37,6 @@
     <preference name="BackgroundColor" value="0xffe0e0e0" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="AllowInlineMediaPlayback" value="true" />
-    <content src="http://gym.danzo.ca?native=true" />
+    <content src="http://gym.danzo.ca" />
     <access origin="*" />
 </widget>
