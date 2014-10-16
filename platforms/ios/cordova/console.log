@@ -186,3 +186,18 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-10-14 22:35:44.610 DanzoGym[16734:7391261] [CDVTimer][TotalPluginStartup] 145.341992ms
 2014-10-14 22:35:44.657 DanzoGym[16734:7391261] Resetting plugins due to page load.
 2014-10-14 22:35:44.668 DanzoGym[16734:7391261] Failed to load webpage with error: The network connection was lost.
+2014-10-15 21:53:17.290 DanzoGym[58160:7922506] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yannik.methot/Library/Developer/CoreSimulator/Devices/A1F4B758-46F8-4E68-80EA-2D5C27BE7630/data/Containers/Data/Application/3E5382BD-5465-4CA7-AA91-528DAD17A654/Library/Cookies/Cookies.binarycookies
+2014-10-15 21:53:17.572 DanzoGym[58160:7922506] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-15 21:53:17.573 DanzoGym[58160:7922506] Multi-tasking -> Device: YES, App: YES
+2014-10-15 21:53:17.588 DanzoGym[58160:7922506] Unlimited access to network resources
+2014-10-15 21:53:17.590 DanzoGym[58160:7922506] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-15 21:53:17.995 DanzoGym[58160:7922506] [CDVTimer][statusbar] 87.505996ms
+2014-10-15 21:53:17.995 DanzoGym[58160:7922506] [CDVTimer][TotalPluginStartup] 87.646008ms
+2014-10-15 21:53:18.067 DanzoGym[58160:7922506] Resetting plugins due to page load.
+2014-10-15 21:53:18.141 DanzoGym[58160:7922506] Failed to load webpage with error: The network connection was lost.
