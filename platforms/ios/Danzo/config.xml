@@ -24,7 +24,7 @@
     </feature>
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarStyle" value="lightcontent" />
-    <name>DanzoGym</name>
+    <name>Danzo</name>
     <description>
         Danzo GYM is an application design to help you optimize your phisical training and reach your goals.
     </description>
