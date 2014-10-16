@@ -17,7 +17,7 @@
  under the License.
  */
 //
-// Prefix header for all source files of the 'DanzoGym' target in the 'DanzoGym' project
+// Prefix header for all source files of the 'Danzo' target in the 'Danzo' project
 //
 
 #ifdef __OBJC__
