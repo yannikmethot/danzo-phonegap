@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.danzo.gym" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Danzo</name>
+    <description>
+        Danzo GYM is an application design to help you optimize your phisical training and reach your goals.
+    </description>
+    <author email="info@danzo.ca" href="http://www.danzo.ca">
+        Danzo
+    </author>
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="StatusBarStyle" value="blackopaque" />
+
+    <preference name="BackgroundColor" value="0xffe0e0e0"/>
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <content src="http://gym.danzo.ca" />
+    <access origin="*" />
+    
+</widget>
