@@ -1,4 +1,11 @@
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes.dex : \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/app/BuildConfig.class \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/app/DanzoGym.class \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/app/R$attr.class \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/app/R$drawable.class \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/app/R$string.class \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/app/R$xml.class \
+/Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/app/R.class \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/gym/BuildConfig.class \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/gym/DanzoGym.class \
 /Users/yannik.methot/Desktop/DanzoGym/native-app/platforms/android/ant-build/classes/com/danzo/gym/R$attr.class \
